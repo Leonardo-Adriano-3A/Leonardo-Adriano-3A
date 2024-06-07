@@ -12,8 +12,13 @@ Bem-vindo ao meu GitHub! Sou Leonardo, e este espaço foi criado para compartilh
 - Controles de teclado para os jogadores
 - Interface simples e intuitiva
 
-- ##Contato
+#Tecnologias Utilizadas*
+- HTML
+- CSS
+- JavaScript
+  
+## Contato
 
 - email: 00001071064629sp@al.educacao.sp.gov.br
 
-- ##Obrigado pela Visita!
+## Obrigado pela Visita!
